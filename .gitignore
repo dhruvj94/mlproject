@@ -7,6 +7,8 @@ __pycache__/
 *.so
 
 # Distribution / packaging
+.vscode
+.artifact
 .Python
 build/
 develop-eggs/
@@ -122,8 +124,6 @@ celerybeat.pid
 *.sage.py
 
 # Environments
-.vscode
-.artifact
 .env
 .venv
 env/
